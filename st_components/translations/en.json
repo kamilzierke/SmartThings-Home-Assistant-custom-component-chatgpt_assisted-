@@ -1,0 +1,19 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "SmartThings Components",
+        "description": "Wprowadź Personal Access Token i Device ID z SmartThings.",
+        "data": {
+          "token": "Personal Access Token (Bearer … lub sam token)",
+          "device_id": "SmartThings Device ID",
+          "scan_interval": "Interwał odświeżania (s)"
+        }
+      }
+    },
+    "error": {
+      "token_missing": "Wymagany Token",
+      "device_id_missing": "Wymagany Device ID"
+    }
+  }
+}

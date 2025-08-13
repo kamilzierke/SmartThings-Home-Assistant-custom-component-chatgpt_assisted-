@@ -1,0 +1,13 @@
+{
+  "domain": "st_components",
+  "name": "SmartThings Components (per-component entities)",
+  "documentation": "https://example.invalid/st_components",
+  "version": "0.2.0",
+  "codeowners": [
+    "@user"
+  ],
+  "iot_class": "cloud_polling",
+  "requirements": [],
+  "dependencies": [],
+  "config_flow": true
+}
